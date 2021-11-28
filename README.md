@@ -16,6 +16,7 @@ I'm a resourceful software engineering student trying to make a positive impact 
 
 ### {} Languages  
 ○ Python  
+○ TypeScript  
 ○ Java  
 ○ Kotlin  
 ○ SQL  
