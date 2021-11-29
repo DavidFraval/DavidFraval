@@ -24,7 +24,7 @@ I'm a resourceful software engineering student trying to make a positive impact 
 ### 🔭 Interests  
 ○ Open source software  
 ○ Creative and inclusive teams  
-○ AI for good  
+○ AI for Good  
 ○ Science
 
 
