@@ -8,11 +8,12 @@ I'm a resourceful software engineering student trying to make a positive impact 
 ○ Full stack web development
 
 ### 🔬 Tools  
-○ PyTorch  
-○ TensorFlow  
-○ Spring Boot  
-○ Jenkins  
+○ Docker  
+○ AWS  
+○ Node.js  
 ○ Angular  
+○ Jenkins  
+○ PyTorch     
 
 ### {} Languages  
 ○ Python  
