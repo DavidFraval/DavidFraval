@@ -1,35 +1,33 @@
 # ☕ D.F.  
-#### 🇫🇷 🇨🇦 🇺🇸  
-I'm a resourceful software engineering student trying to make a positive impact with code.
+#### 🇫🇷 🇨🇦 🇺🇸
+I'm a resourceful and friendly software engineer trying to make a positive impact with code.
 
 ### ⛭ Skills  
-○ Software design  
-○ Machine learning  
+○ Software engineering
+○ Machine learning
 ○ Full stack web development
 
-### 🔬 Tools  
-○ Docker  
-○ AWS  
-○ Node.js  
-○ Angular  
-○ Jenkins  
-○ PyTorch     
+### {} Languages
+○ Python
+○ TypeScript
+○ Java
+○ Kotlin
 
-### {} Languages  
-○ Python  
-○ TypeScript  
-○ Java  
-○ Kotlin  
-○ SQL  
+### 🔬 Tools
+○ PyTorch
+○ Node.js
+○ Angular
+○ AWS
+○ Docker
 
-### 🔭 Interests  
-○ Open source software  
-○ Creative and inclusive teams  
-○ AI for Good  
+### 🔭 Interests
 ○ Science
+○ Open source software
+○ Creative and inclusive problem solving
+○ AI for Good
 
 
 #### Let's build something  
 ✉️ 2fraval@gmail.com  
 https://www.linkedin.com/in/david-fraval  
-Where I want to work: 🇨🇦 🇺🇸 🇪🇺
+Where I want to work: ontario, remote
