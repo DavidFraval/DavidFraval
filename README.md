@@ -1,33 +1,34 @@
 # ☕ D.F.  
-#### 🇫🇷 🇨🇦 🇺🇸
 I'm a resourceful and friendly software engineer trying to make a positive impact with code.
 
 ### ⛭ Skills  
-• Software engineering  
-• Machine learning  
-• Full stack web development  
+• Software engineering
+• CI/CD
+• Backend web development
+• Machine learning
 
 ### {} Languages
-• Python  
-• TypeScript  
-• Java  
-• Kotlin  
+• Java
+• Python
+• C/C++
+• Go
+• TypeScript
 
 ### 🔬 Tools
-• PyTorch  
-• Node.js  
-• Angular  
-• AWS  
-• Docker  
+• Jenkins
+• Docker
+• Node.js
+• Angular
+• AWS
+• PyTorch
 
 ### 🔭 Interests
-• Science  
-• Open source software  
-• Creative and inclusive problem solving  
-• AI for Good  
-
+• Science
+• IOT
+• Open-source
+• AI
 
 #### Let's build something  
 ✉️ 2fraval@gmail.com  
 https://www.linkedin.com/in/david-fraval  
-📍 Where I want to work: Quebec
+📍 Where I want to work: Montreal  
