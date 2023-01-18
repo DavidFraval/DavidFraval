@@ -1,5 +1,5 @@
-# ☕ D.F.  
-I'm a resourceful and friendly software engineer trying to make a positive impact with code.
+# 🍵 D.F.  
+I'm a resourceful software engineer trying to make a positive impact with code.
 
 ### ⛭ Skills  
 • Software engineering
