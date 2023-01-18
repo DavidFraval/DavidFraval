@@ -30,4 +30,4 @@ I'm a resourceful and friendly software engineer trying to make a positive impac
 #### Let's build something  
 ✉️ 2fraval@gmail.com  
 https://www.linkedin.com/in/david-fraval  
-📍 Where I want to work: Ontario, remote
+📍 Where I want to work: Quebec
