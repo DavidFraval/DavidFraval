@@ -10,9 +10,8 @@ I'm a resourceful software engineer trying to make a positive impact with code.
 ### {} Languages
 • Java  
 • Python  
-• C/C++  
-• Go  
 • TypeScript  
+• Go  
 
 ### 🔬 Tools
 • Jenkins  
