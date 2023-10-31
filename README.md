@@ -5,7 +5,6 @@ I'm a resourceful software engineer trying to make a positive impact with code.
 • Software engineering  
 • CI/CD  
 • Backend web development  
-• Machine learning  
 
 ### {} Languages
 • Java  
@@ -17,9 +16,8 @@ I'm a resourceful software engineer trying to make a positive impact with code.
 • Jenkins  
 • Docker  
 • Node.js  
-• Angular  
+• React  
 • AWS  
-• PyTorch  
 
 ### 🔭 Interests
 • Science  
