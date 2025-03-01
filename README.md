@@ -7,13 +7,14 @@ I'm a resourceful software engineer trying to make a positive impact with code.
 • Backend web development  
 
 ### {} Languages
-• Java  
-• Python  
 • TypeScript  
+• C#  
+• Rust  
+• Python  
 • Go  
 
 ### 🔬 Tools
-• Jenkins  
+• Gitlab/CI  
 • Docker  
 • Node.js  
 • React  
@@ -21,9 +22,11 @@ I'm a resourceful software engineer trying to make a positive impact with code.
 
 ### 🔭 Interests
 • Science  
-• IOT  
-• Open-source  
+• Moral philosophy  
+• Open source  
+• Functional programming  
 • AI  
+• IoT  
 
 #### Let's build something  
 ✉️ 2fraval@gmail.com  
